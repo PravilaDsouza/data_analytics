@@ -1,2 +1,1 @@
-# data_analytics
-data_visualization projects
+# DATA_ANALYTICS PORTFOLIO
