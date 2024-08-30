@@ -1,1 +1,2 @@
 # DATA_ANALYTICS PORTFOLIO
+[PROJECT 1: DATA VISUALIZATION ON FRAMIGHAM](https://github.com/PravilaDsouza/AI-ML-Projects)
